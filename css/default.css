@@ -1,0 +1,6 @@
+/* default styles*/
+@import './base.css';
+/*colors styles*/
+@import './colors.css';
+/*Styles components*/
+@import './forms.css';
